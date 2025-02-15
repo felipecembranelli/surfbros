@@ -10,3 +10,7 @@ Medium article: [https://medium.com/@felipecembranelli/youtubeblink-an-openai-vi
 ## Do you want access to the source code?
 
 Please send me a message: felipecembranelli@live.com
+
+## Architecture Overview
+
+![alt text](img/surf-spots-azure.JPG)
